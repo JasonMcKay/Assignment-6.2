@@ -48,7 +48,10 @@
         <service
             android:name=".services.ListVehicleService"
             android:enabled="true"
-            android:exported="true"></service>
+            android:exported="true" />
+        <service
+            android:name=".services.VehicleBuildService"
+            android:exported="false"></service>
     </application>
 
 </manifest>
