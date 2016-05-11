@@ -1,6 +1,6 @@
-# Assignment-6.2
+Assignment-6.2
 
-## this assignment consists of 10 services each with a test case
+This assignment consists of 10 services, each with a test case.
 
 Included the 10 services is a combination of bound services and intent services, 
 as well as a broadcast messenger and receiver.
